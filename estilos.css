@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+#parrafo2 {
+    color: crimson;
+}
+
+#container {
+    background: #000;
+}
